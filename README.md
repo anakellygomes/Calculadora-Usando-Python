@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 ```{python}
 {
   "nbformat": 4,
@@ -598,6 +592,8 @@ editor_options:
   ]
 }
 ```
+
+
 
 op= '' while op != 's' : op = input('''Qual a opção desejada? Escolha
 dentre as seguintes opções:'+' para soma '/' para divisão '-' para
